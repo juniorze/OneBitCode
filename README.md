@@ -44,29 +44,31 @@ Embarque em uma jornada intensiva de Python, dos fundamentos às técnicas avan�
    - Mentoria, resolução de dúvidas, comunidade ativa
 
 ## 🗂 Navegação do Repositório
+```
 OneBitCode/
-|
-+-- Python I - Introducao ao Python/
-| |-- 01-Print.py
-| |-- 02-TipoDados.py
-| |-- 03-Input.py
-| |-- 04-Concatenação.py
-| |-- 05-Operadores.py
-| |-- 06-EstruturaCondicional.py
-| |-- 07-EstruturaRepeticao.py
-| |-- 08-Funcoes.py
-| +-- [Outros arquivos .py]
-|
-+-- Python II - [Nome do Módulo]/
-| |-- 01-[Tópico].py
-| |-- 02-[Tópico].py
-| +-- 03-[Tópico].py
-|
-+-- Python III - [Nome do Módulo]/
-| |-- [Arquivos e subpastas relevantes]
-| +-- ...
-|
-+-- recursos/
-|-- cheat-sheets/
-|-- materiais-complementares/
-+-- links-uteis.md
+│
+├── Python I - Introducao ao Python/
+│ ├── 01-Print.py
+│ ├── 02-TipoDados.py
+│ ├── 03-Input.py
+│ ├── 04-Concatenação.py
+│ ├── 05-Operadores.py
+│ ├── 06-EstruturaCondicional.py
+│ ├── 07-EstruturaRepeticao.py
+│ ├── 08-Funcoes.py
+│ └── [Outros arquivos .py]
+│
+├── Python II - [Nome do Módulo]/
+│ ├── 01-[Tópico].py
+│ ├── 02-[Tópico].py
+│ └── 03-[Tópico].py
+│
+├── Python III - [Nome do Módulo]/
+│ ├── [Arquivos e subpastas relevantes]
+│ └── ...
+│
+└── recursos/
+├── cheat-sheets/
+├── materiais-complementares/
+└── links-uteis.md
+```
