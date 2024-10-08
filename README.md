@@ -1,7 +1,7 @@
 # 🐍 Python: Do Zero ao Profissional
 
 <div align="center">
-  <img src="https://i.imgur.com/YX6UAT0.png" alt="Python Course Banner" width="800">
+  <img src="https://onebitcode.com/assets/pro/img/formacao-py.jpg" alt="Python Course Banner" width="600">
 </div>
 
 <p align="center">
