@@ -24,7 +24,9 @@ Embarque em uma jornada intensiva de Python, dos fundamentos às técnicas avan�
 ## 🛠 Tecnologias
 
 - **Python**: A linguagem versátil que impulsiona o curso
-- **Módulos Python**: Explorando o vasto ecossistema de bibliotecas
+- **Módulos Python**: Explorando o vasto ecossistema de bibliotecas do Python como Django, FastAPI, Flask, Pandas, StreamLit
+- **MongoDB**: Integrações com Banco de Dados
+- **VS Code**: Editor de códigos
 
 ## 📚 Estrutura do Curso
 
@@ -42,3 +44,23 @@ Embarque em uma jornada intensiva de Python, dos fundamentos às técnicas avan�
    - Mentoria, resolução de dúvidas, comunidade ativa
 
 ## 🗂 Navegação do Repositório
+OneBitCode/
+│
+├── Python I - Introducao ao Python/
+│ ├── 01-Print.py
+│ ├── 02-TipoDados.py
+│ ├── 03-Input.py
+│ ├── 04-Concatenação.py
+│ ├── 03-TipoDados.py
+│ ├── 03-TipoDados.py
+│ ├── 03-TipoDados.py
+│ ├── 03-TipoDados.py
+│ └── xx-.py
+│
+├── 02-
+│ ├── 01-
+│ ├── 02-
+│ └── 03-
+│
+│
+└── recursos/
