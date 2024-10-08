@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.4%2B-blue?style=for-the-badge&logo=python" alt="Python Versão"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" alt="Python Versão"></a>
   <a href="https://onebitcode.com/python"><img src="https://img.shields.io/badge/OneBitCode-Curso-orange?style=for-the-badge" alt="OneBitCode Curso"></a>
   <a href="#"><img src="https://img.shields.io/badge/Projetos-Reais-green?style=for-the-badge" alt="Projetos Reais"></a>
 </p>
