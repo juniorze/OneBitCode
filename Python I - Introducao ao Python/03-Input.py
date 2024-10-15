@@ -1,3 +1,8 @@
+"""
+Input:
+A função input() é usada para receber entrada do usuário. Ela sempre retorna uma string. Exemplo:
+"""
+
 gameName = input("\nDigite o nome do jogo: \n")
 yearLaunch = int(input("Digite o ano de lançamento: \n"))
 gamePrice = float(input("Digite o preço do jogo: \n"))

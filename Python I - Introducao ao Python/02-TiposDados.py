@@ -1,3 +1,22 @@
+"""
+Tipo de Dados:
+Python tem vários tipos de dados embutidos, incluindo:
+- int (números inteiros)
+- float (números de ponto flutuante)
+- str (strings ou texto)
+- bool (booleanos, True ou False)
+- list (listas)
+- tuple (tuplas)
+- dict (dicionários)
+- set (conjuntos)
+
+Exemplo:
+x = 5  # int
+y = 3.14  # float
+nome = "Alice"  # str
+is_python = True  # bool
+"""
+
 gameName = 'Resident Evil 4 Remake'
 yearLaunch = 2023
 gamePrice = 300.00

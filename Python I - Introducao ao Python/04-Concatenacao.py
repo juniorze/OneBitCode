@@ -1,3 +1,8 @@
+"""
+Concatenação:
+É o processo de combinar strings. Em Python, pode ser feito com o operador '+' ou usando f-strings. Exemplo:
+"""
+
 # Coletando informações sobre um jogo
 name = input("Digite o nome do jogo: \n")
 yearLaunch = int(input("Digite o ano de lançamento do jogo: \n"))
